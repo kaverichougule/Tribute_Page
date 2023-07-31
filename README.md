@@ -18,7 +18,7 @@ In this section, an image of Virat Kohli is displayed. The image size is set to 
 This section embeds an Instagram post from Virat Kohli's account. The embedded content is displayed within the page, allowing users to see the Instagram post without leaving the site.
 
 # Google Map
-
+![image](https://github.com/kaverichougule/Tribute_Page/assets/101037685/5db3778e-240c-4c65-83a6-707922495472)
 Google Map: This section uses an embedded Google Map to display the location of Rajgad Fort. The map is interactive, allowing users to explore the location and zoom in/out.
 
 # Favourite Song
